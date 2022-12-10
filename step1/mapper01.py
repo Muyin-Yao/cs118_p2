@@ -7,7 +7,7 @@ import urllib.parse
 sys.stdin.reconfigure(encoding='utf-8')
 
 def mapper():
-    sys.stderr.write('DEBUG: inside mapper \n')
+    sys.stderr.write('DEBUG_INFO: inside mapper \n')
     try:
         filepath = os.environ["map_input_file"] 
         filename = os.path.split(filepath)[-1]
@@ -66,9 +66,9 @@ def mapper():
         # print("drop_bilerplate " + v[1])
         
         # access date
-        sys.stdout.write('%s}%s %s\n' % (v[1], meta_data[1], v[2]))
+        sys.stdout.write('%s}%s\t%s\n' % (v[1], meta_data[1], v[2]))
 
-        sys.stderr.write('%s}%s %s\n' % (v[1], meta_data[1], v[2]))
+        sys.stderr.write('%s}%s\t%s\n' % (v[1], meta_data[1], v[2]))
         # print(v[1] + '}' + meta_data[1] + ' ' + v[3])
 
     sys.stderr.write('exit mapper \n')
