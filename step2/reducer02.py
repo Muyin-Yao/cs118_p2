@@ -29,13 +29,13 @@ for line in sys.stdin:
         continue
 
     if pagename_prev == pagename:
-        print("DEBUG_INFO: case 1")
+        # print("DEBUG_INFO: case 1")
         page_date_prev = combine_lists(page_date_prev, page_date)
         page_count_prev = combine_lists(page_count_prev, page_count)
         sum_prev = sum_prev + sum
         diff_prev = diff_prev + diff
     else:
-        print("DEBUG_INFO: case 2")
+        # print("DEBUG_INFO: case 2")
         pagename_prev = pagename
         page_date_prev = page_date
         page_count_prev = page_count
