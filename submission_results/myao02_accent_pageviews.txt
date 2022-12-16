@@ -1,0 +1,892 @@
+Accenture	[20160601, 20160604]	[2081, 927]	3008	-1154
+Grave_accent	[20160601, 20160604]	[659, 324]	983	-335
+Hyundai_Accent	[20160602, 20160605]	[432, 346]	778	-86
+Acute_accent	[20160602, 20160605]	[448, 317]	765	-131
+Mid-Atlantic_accent	[20160602, 20160605]	[450, 266]	716	-184
+Regional_accents_of_English	[20160601, 20160604]	[357, 281]	638	-76
+Southern_Accents	[20160601, 20160604]	[227, 146]	373	-81
+Foreign_accent_syndrome	[20160603]	[360]	360	360
+Boston_accent	[20160602, 20160605]	[176, 141]	317	-35
+Rhotic_and_non-rhotic_accents	[20160602, 20160605]	[140, 153]	293	13
+Accent_(music)	[20160602, 20160605]	[148, 117]	265	-31
+Accent_(sociolinguistics)	[20160603]	[171]	171	171
+Accent	[20160603]	[168]	168	168
+Japanese_pitch_accent	[20160601, 20160604]	[85, 73]	158	-12
+Boston_Brahmin_accent	[20160601, 20160604]	[97, 51]	148	-46
+Pitch_accent	[20160603]	[140]	140	140
+Double_acute_accent	[20160602, 20160605]	[87, 47]	134	-40
+Baltimore_accent	[20160601, 20160604]	[72, 54]	126	-18
+Accent_reduction	[20160602, 20160605]	[61, 56]	117	-5
+How_the_García_Girls_Lost_Their_Accents	[20160602, 20160605]	[57, 44]	101	-13
+Maine_accent	[20160602, 20160605]	[47, 52]	99	5
+Lancashire_dialect_and_accent	[20160601, 20160604]	[45, 49]	94	4
+Accent_(dialect)	[20160602, 20160605]	[52, 38]	90	-14
+Miami_accent	[20160603]	[80]	80	80
+Ancient_Greek_accent	[20160601, 20160604]	[29, 43]	72	14
+Yorkshire_accent	[20160601, 20160604]	[40, 31]	71	-9
+Cape_Breton_accent	[20160602, 20160605]	[32, 32]	64	0
+Accent_(fallacy)	[20160601, 20160604]	[31, 31]	62	0
+English_accents	[20160601, 20160604]	[30, 28]	58	-2
+English-language_accents_in_film	[20160601, 20160604]	[28, 26]	54	-2
+Circumflex_accent	[20160602, 20160605]	[28, 21]	49	-7
+Accent_(phonetics)	[20160603]	[46]	46	46
+Transatlantic_accent	[20160603]	[46]	46	46
+Accent_lighting	[20160603]	[46]	46	46
+Scottish_accent	[20160601, 20160604]	[24, 21]	45	-3
+Philadelphia_accent	[20160601, 20160604]	[19, 25]	44	6
+Alpine_accentor	[20160602, 20160605]	[24, 18]	42	-6
+Southern_Accents_(Tom_Petty_song)	[20160602, 20160605]	[17, 23]	40	6
+Double_grave_accent	[20160603]	[37]	37	37
+New_York_accent	[20160601, 20160604]	[18, 18]	36	0
+Proto-Indo-European_accent	[20160602, 20160605]	[17, 19]	36	2
+Accent_wall	[20160601, 20160604]	[23, 11]	34	-12
+Regional_accents_of_English_speakers	[20160603]	[33]	33	33
+English_accent	[20160602, 20160605]	[14, 19]	33	5
+Vedic_accent	[20160601, 20160604]	[20, 12]	32	-8
+Rhotic_accent	[20160601, 20160604]	[17, 15]	32	-2
+Accentual_verse	[20160602, 20160605]	[13, 15]	28	2
+Acting_and_accents	[20160601, 20160604]	[17, 11]	28	-6
+Central_Pennsylvania_accent	[20160601, 20160604]	[15, 12]	27	-3
+Accentor	[20160603]	[26]	26	26
+Accents_(psychology)	[20160601, 20160604]	[14, 11]	25	-3
+British_accent	[20160601, 20160604]	[11, 14]	25	3
+Gøtudanskt_accent	[20160603]	[25]	25	25
+Midwestern_accent	[20160603]	[23]	23	23
+Tidewater_accent	[20160603]	[23]	23	23
+Accent_Records	[20160601, 20160604]	[18, 5]	23	-13
+WGC-Accenture_Match_Play_Championship	[20160602, 20160605]	[13, 9]	22	-4
+Accent_(band)	[20160603]	[21]	21	21
+Accentuate_the_Positive_(album)	[20160601, 20160604]	[13, 8]	21	-5
+Irish_accent	[20160601, 20160604]	[11, 10]	21	-1
+Old_Virginia_accent	[20160601, 20160604]	[10, 11]	21	1
+Yorkshire_dialect_and_accent	[20160603]	[20]	20	20
+Japanese_accentor	[20160601, 20160604]	[12, 8]	20	-4
+Accentual-syllabic_verse	[20160602, 20160605]	[9, 11]	20	2
+Cockney_accent	[20160602, 20160605]	[11, 9]	20	-2
+Accentus	[20160602, 20160605]	[6, 13]	19	7
+Accent_(poetry)	[20160603]	[19]	19	19
+Accenture_plc	[20160602, 20160605]	[5, 14]	19	9
+Hyundai_Accent_WRC	[20160601, 20160604]	[12, 6]	18	-6
+The_Accents	[20160601, 20160604]	[13, 4]	17	-9
+Guilty_Gear_XX_Accent_Core_Plus	[20160602, 20160605]	[7, 10]	17	3
+Accent_marks	[20160601, 20160604]	[15, 2]	17	-13
+AccentHealth	[20160602, 20160605]	[10, 7]	17	-3
+Proto-Slavic_accent	[20160603]	[16]	16	16
+Accentor-class_minesweeper	[20160603]	[16]	16	16
+Accentuation_effect	[20160603]	[15]	15	15
+Accent_Radio_Network	[20160601, 20160604]	[8, 7]	15	-1
+2014_WGC-Accenture_Match_Play_Championship	[20160603]	[15]	15	15
+Lithuanian_accentuation	[20160601, 20160604]	[8, 7]	15	-1
+2011_WGC-Accenture_Match_Play_Championship	[20160601, 20160604]	[7, 7]	14	0
+Black-throated_accentor	[20160603]	[14]	14	14
+ACCENT_Speakers_Bureau	[20160602, 20160605]	[7, 7]	14	0
+Accent_(programming_language)	[20160602, 20160605]	[9, 5]	14	-4
+Accenture_Tower	[20160601, 20160604]	[7, 7]	14	0
+2004_WGC-Accenture_Match_Play_Championship	[20160603]	[13]	13	13
+Accent_on_Africa	[20160603]	[13]	13	13
+Siberian_accentor	[20160603]	[12]	12	12
+2003_WGC-Accenture_Match_Play_Championship	[20160602, 20160605]	[7, 5]	12	-2
+2010_WGC-Accenture_Match_Play_Championship	[20160603]	[12]	12	12
+Accent_(linguistics)	[20160602, 20160605]	[7, 5]	12	-2
+2008_WGC-Accenture_Match_Play_Championship	[20160602, 20160605]	[7, 4]	11	-3
+American_accent	[20160603]	[11]	11	11
+2013_WGC-Accenture_Match_Play_Championship	[20160602, 20160605]	[5, 6]	11	1
+Brooklyn_accent	[20160603]	[11]	11	11
+Ctenoplusia_accentifera	[20160601, 20160604]	[2, 9]	11	7
+Southern_accent	[20160603]	[11]	11	11
+Manningham_accent	[20160601, 20160604]	[7, 4]	11	-3
+2001_WGC-Accenture_Match_Play_Championship	[20160603]	[11]	11	11
+2007_WGC-Accenture_Match_Play_Championship	[20160601, 20160604]	[6, 5]	11	-1
+2005_WGC-Accenture_Match_Play_Championship	[20160601, 20160604]	[4, 6]	10	2
+Pitch_accent_(intonation)	[20160603]	[10]	10	10
+Australian_accent	[20160603]	[10]	10	10
+Cymindis_accentifera	[20160601, 20160604]	[1, 9]	10	8
+Irish_Ghost,_English_Accent	[20160602, 20160605]	[1, 9]	10	8
+2002_WGC-Accenture_Match_Play_Championship	[20160601, 20160604]	[4, 6]	10	2
+American_accents	[20160602, 20160605]	[4, 6]	10	2
+Accent_on_Love	[20160601, 20160604]	[4, 6]	10	2
+Welsh_accent	[20160601, 20160604]	[6, 4]	10	-2
+French_accent	[20160602, 20160605]	[7, 3]	10	-4
+Tehrani_accent	[20160603]	[10]	10	10
+2006_WGC-Accenture_Match_Play_Championship	[20160602, 20160605]	[6, 3]	9	-3
+Accent_on_Youth_(film)	[20160601, 20160604]	[4, 5]	9	1
+Accentology	[20160601, 20160604]	[5, 4]	9	-1
+Accents	[20160602, 20160605]	[5, 4]	9	-1
+2009_WGC-Accenture_Match_Play_Championship	[20160602, 20160605]	[4, 5]	9	1
+Maroon-backed_accentor	[20160601, 20160604]	[7, 2]	9	-5
+Regional_accent	[20160601, 20160604]	[3, 6]	9	3
+List_of_accented_words_in_English_language	[20160602, 20160605]	[2, 7]	9	5
+Accute_accent	[20160602, 20160605]	[6, 2]	8	-4
+2012_WGC-Accenture_Match_Play_Championship	[20160601, 20160604]	[3, 5]	8	2
+Broad_and_general_accents	[20160601, 20160604]	[3, 5]	8	2
+Brown_accentor	[20160602, 20160605]	[1, 7]	8	6
+Stress_accent	[20160603]	[8]	8	8
+Texas_accent	[20160602, 20160605]	[3, 5]	8	2
+Macropophora_accentifer	[20160602, 20160605]	[1, 7]	8	6
+Kozlov's_accentor	[20160602, 20160605]	[1, 7]	8	6
+Accent_kernel	[20160602, 20160605]	[3, 5]	8	2
+Manchester_accent	[20160601, 20160604]	[4, 4]	8	0
+Accent_on_Strings	[20160603]	[7]	7	7
+Accentuate_the_Positive	[20160603]	[7]	7	7
+Accent_(phonology)	[20160602, 20160605]	[3, 4]	7	1
+Guilty_Gear_XX_Accent_Core	[20160602, 20160605]	[2, 5]	7	3
+Draft:Accents_(band)	[20160604]	[7]	7	7
+Accent_on_Youth	[20160601, 20160604]	[4, 3]	7	-1
+Spanish_accent	[20160602, 20160605]	[4, 3]	7	-1
+Rufous-breasted_accentor	[20160602, 20160605]	[5, 2]	7	-3
+New_York_Accent	[20160603]	[6]	6	6
+Lancashire_accent	[20160602, 20160605]	[2, 4]	6	2
+Minnesota_accent	[20160601, 20160604]	[1, 5]	6	4
+West_Country_accent	[20160602, 20160605]	[2, 4]	6	2
+Fix_Your_Accent_(EP)	[20160601, 20160604]	[1, 5]	6	4
+Robin_accentor	[20160602, 20160605]	[4, 2]	6	-2
+Non-rhotic_accent	[20160603]	[6]	6	6
+Accent_on_the_Blues	[20160602, 20160605]	[1, 5]	6	4
+British_accents	[20160602, 20160605]	[4, 2]	6	-2
+Accent_mark	[20160603]	[6]	6	6
+Draft:Accent_(rapper)	[20160605]	[6]	6	6
+Dixie_accent	[20160601, 20160604]	[3, 3]	6	0
+Fix_Your_Accent	[20160602, 20160605]	[4, 2]	6	-2
+Accentus_(choir)	[20160601, 20160604]	[3, 3]	6	0
+Accent_grave	[20160602, 20160605]	[5, 1]	6	-4
+Austrian_accent	[20160601, 20160604]	[2, 4]	6	2
+Midwestern_accent_(disambiguation)	[20160602, 20160605]	[2, 4]	6	2
+Urban_Accents	[20160603]	[6]	6	6
+USS_Accentor_(AMc-36)	[20160602, 20160605]	[3, 3]	6	0
+German_accent	[20160602, 20160605]	[2, 3]	5	1
+Scouse_accent	[20160601, 20160604]	[2, 3]	5	1
+International_Workshop_on_Balto-Slavic_Accentology	[20160601, 20160604]	[2, 3]	5	1
+Yorkshire_Accent	[20160601, 20160604]	[3, 2]	5	-1
+Accent_aigu	[20160602, 20160605]	[2, 3]	5	1
+Double_Acute_Accent	[20160602, 20160605]	[3, 2]	5	-1
+Mexican_accent	[20160602, 20160605]	[4, 1]	5	-3
+Scopula_accentuata	[20160602, 20160605]	[4, 1]	5	-3
+Southern_United_States_accent	[20160601, 20160604]	[3, 2]	5	-1
+Rhotic_and_non_rhotic_accents	[20160601]	[5]	5	-5
+Venusia_accentuata	[20160601, 20160604]	[3, 2]	5	-1
+Verandas_Willems-Accent	[20160604]	[5]	5	5
+Black_Country_accent	[20160601, 20160604]	[1, 4]	5	3
+Accenture.jsp	[20160604]	[5]	5	5
+Nephele_accentifera	[20160601, 20160604]	[4, 1]	5	-3
+Accent_Neutralization	[20160602, 20160605]	[3, 2]	5	-1
+Accented_syllable	[20160605]	[5]	5	5
+Accent_(disambiguation)	[20160601, 20160604]	[3, 2]	5	-1
+Cardiff_accent_and_dialect	[20160603]	[4]	4	4
+Altai_accentor	[20160602, 20160605]	[1, 3]	4	2
+Accent.jobs-Willems_Veranda's	[20160602, 20160605]	[1, 3]	4	2
+Accentuation	[20160602, 20160605]	[2, 2]	4	0
+Accent_marks/trackback/	[20160602, 20160605]	[2, 2]	4	0
+Accent_Energy	[20160602, 20160605]	[2, 2]	4	0
+2011_Veranda's_Willems–Accent_season	[20160601, 20160604]	[3, 1]	4	-2
+Accentus_Austria	[20160602, 20160605]	[2, 2]	4	0
+Black_Country_Accent	[20160605]	[4]	4	4
+Accents_on_letters	[20160601, 20160604]	[2, 2]	4	0
+Grave_Accent	[20160601, 20160604]	[3, 1]	4	-2
+Geordie_accent	[20160601, 20160604]	[1, 3]	4	2
+Socialism_with_a_Northern_Accent	[20160601]	[4]	4	-4
+MacCentral	[20160602, 20160605]	[2, 2]	4	0
+Manchester_accent_and_dialect	[20160603]	[4]	4	4
+Japanese_Accentor	[20160603]	[4]	4	4
+Russian_accent	[20160601, 20160604]	[1, 3]	4	2
+Posh_accent	[20160601, 20160604]	[2, 2]	4	0
+Terry_Neill_(Accenture)	[20160601]	[4]	4	-4
+Accent_cymbal	[20160602]	[4]	4	-4
+Boston_accent_phonology	[20160602, 20160605]	[2, 1]	3	-1
+Accented_characters	[20160601, 20160604]	[2, 1]	3	-1
+Accentuate_Limited	[20160601]	[3]	3	-3
+Canadian_accent	[20160601, 20160604]	[2, 1]	3	-1
+Accents_of_English	[20160603]	[3]	3	3
+Accent_ague	[20160601, 20160604]	[2, 1]	3	-1
+Lithuanian_accent	[20160602, 20160605]	[1, 2]	3	1
+Jamaican_accent	[20160603]	[3]	3	3
+Essex_accent	[20160603]	[3]	3	3
+How_the_Garcia_Girls_Lost_Their_Accents	[20160601]	[3]	3	-3
+Yorkshire_accent_and_dialect	[20160601, 20160604]	[2, 1]	3	-1
+Texan_accent	[20160601]	[3]	3	-3
+WGC-Accenture_Matchplay_Championship	[20160601, 20160604]	[1, 2]	3	1
+Words_that_are_nouns_or_adjectives_when_the_accent_is_on_the_first_syllable_and_verbs_when_on_the_second	[20160604]	[3]	3	3
+Accentus_(fallacy)	[20160601, 20160604]	[2, 1]	3	-1
+Accenting	[20160602, 20160605]	[2, 1]	3	-1
+Arabian_accentor	[20160602, 20160605]	[2, 1]	3	-1
+British_English_Accent_Training_Lesson_1_Introduction_And	[20160603]	[3]	3	3
+2011_Veranda's_Willems-Accent_season	[20160604]	[3]	3	3
+Rhotic_and_nonrhotic_accents	[20160602, 20160605]	[1, 2]	3	1
+Pirate_accent	[20160603]	[3]	3	3
+QWERTY_and_accents	[20160603]	[3]	3	3
+Southern_American_accent	[20160602]	[3]	3	-3
+Nishapuri_Persian_accent	[20160601, 20160604]	[2, 1]	3	-1
+Northern_accent	[20160601, 20160604]	[2, 1]	3	-1
+Hyundai_accent	[20160603]	[3]	3	3
+East_Anglian_Accent	[20160601, 20160604]	[2, 1]	3	-1
+Guilty_Gear_XX_Accent_Core_Plus_R	[20160603]	[3]	3	3
+Guernsey_Accent	[20160601, 20160604]	[1, 2]	3	1
+Pontianak_Malay_accent	[20160601, 20160604]	[2, 1]	3	-1
+Danish_accent	[20160601, 20160604]	[2, 1]	3	-1
+French_accents	[20160603]	[3]	3	3
+Accentmarketing	[20160602, 20160605]	[2, 1]	3	-1
+Chinese_accent	[20160601, 20160604]	[2, 1]	3	-1
+ACCENT_Speaker's_Bureau	[20160601, 20160604]	[1, 2]	3	1
+Alopecosa_accentuata	[20160601, 20160604]	[2, 1]	3	-1
+Chicago_accent	[20160603]	[3]	3	3
+Yooper_accent	[20160601, 20160604]	[2, 1]	3	-1
+Japanese_accent	[20160602, 20160605]	[1, 2]	3	1
+Ikavian_accent	[20160603]	[3]	3	3
+MacCentral_Online	[20160601, 20160604]	[1, 2]	3	1
+Mongolian_accentor	[20160603]	[3]	3	3
+Puerto_Rican_accents	[20160601, 20160604]	[2, 1]	3	-1
+Shtokavian_accentuation	[20160601, 20160604]	[2, 1]	3	-1
+Philly_accent	[20160601, 20160604]	[2, 1]	3	-1
+Radde's_Accentor	[20160602, 20160605]	[1, 1]	2	0
+Non-rhotic_accents	[20160603]	[2]	2	2
+Old_virginia_accent	[20160602, 20160605]	[1, 1]	2	0
+Polish_accent	[20160605]	[2]	2	2
+Himalayan_accentor	[20160601, 20160604]	[1, 1]	2	0
+Home_Accents_Today	[20160603]	[2]	2	2
+Fallacy_of_accent	[20160601, 20160604]	[1, 1]	2	0
+How_The_Garcia_Girls_Lost_Their_Accents	[20160605]	[2]	2	2
+Foreign_accent	[20160602, 20160605]	[1, 1]	2	0
+Hyundai Accent	[20160601, 20160604]	[1, 1]	2	0
+Grave_accent,	[20160604]	[2]	2	2
+Fix_Your_Accent_EP	[20160601, 20160604]	[1, 1]	2	0
+French_accent_marks	[20160602]	[2]	2	-2
+Draft:Ancient_Greek_Accent	[20160604]	[2]	2	2
+Draft:Fried_Chicken_With_A_German_Accent	[20160601, 20160604]	[1, 1]	2	0
+Grave_accent_Accent	[20160603]	[2]	2	2
+Grave_accent_rule	[20160603]	[2]	2	2
+East_Anglian_accent	[20160601, 20160604]	[1, 1]	2	0
+English_words_that_change_meaning_with_accents	[20160602, 20160605]	[1, 1]	2	0
+Ephysteris_accentella	[20160602, 20160605]	[1, 1]	2	0
+WGC-Accenture_World_Match_Play_Championship	[20160601, 20160604]	[1, 1]	2	0
+Yemen_Accentor	[20160601, 20160604]	[1, 1]	2	0
+Kiwi_accent	[20160601, 20160604]	[1, 1]	2	0
+Jersey_accent	[20160601, 20160604]	[1, 1]	2	0
+Handwriting_foreign_accent	[20160604]	[2]	2	2
+Hebrew_accents	[20160603]	[2]	2	2
+Dutch_accent	[20160601, 20160604]	[1, 1]	2	0
+Flags_of_Africa_Accented_on_2016-06-01	[20160601]	[2]	2	-2
+Girls_With_Accents	[20160603]	[2]	2	2
+Girls_With_Accents_(song)	[20160603]	[2]	2	2
+Dynamic_accent	[20160605]	[2]	2	2
+Hyundai_Accent&psig=AFQjCNEngB4lt7_98FsxuQZwOUfNi7wGWg&ust=1465066679033992	[20160603]	[2]	2	2
+Florida_Accent	[20160601, 20160604]	[1, 1]	2	0
+Ekavian_accent	[20160603]	[2]	2	2
+Retro_classic_white_accent_chairs	[20160604]	[2]	2	2
+New_England_accent	[20160603]	[2]	2	2
+Regional_English_accents	[20160601]	[2]	2	-2
+Yorkshire_dialect_and_accent/trackback/	[20160604]	[2]	2	2
+Tabrizi_accent	[20160601, 20160604]	[1, 1]	2	0
+West_Country_Accent	[20160602, 20160605]	[1, 1]	2	0
+Tidewater_Accent	[20160602, 20160605]	[1, 1]	2	0
+United_States_accents	[20160602, 20160605]	[1, 1]	2	0
+Wisconsin_accent	[20160601, 20160604]	[1, 1]	2	0
+The_Hague_accent	[20160604]	[2]	2	2
+Ygapema_accentifer	[20160601]	[2]	2	-2
+Accent_on_Youth_(TV_series)	[20160603]	[2]	2	2
+Accent_on_Rhythm	[20160601, 20160604]	[1, 1]	2	0
+Canadian_accents	[20160601, 20160604]	[1, 1]	2	0
+Accenture_Match_Play_Championship	[20160602, 20160605]	[1, 1]	2	0
+Accentual-syllabic verse	[20160604]	[2]	2	2
+Accenti	[20160601]	[2]	2	-2
+American_Accent	[20160601, 20160604]	[1, 1]	2	0
+Agogic_accent	[20160605]	[2]	2	2
+2011_Verandas_Willems-Accent_season	[20160601, 20160604]	[1, 1]	2	0
+.accenture	[20160604]	[2]	2	2
+Accent_Jobs-Wanty	[20160605]	[2]	2	2
+Accent_Records_(US)	[20160602, 20160605]	[1, 1]	2	0
+Accents_graves	[20160604]	[2]	2	2
+Accent_(Belarus)	[20160602, 20160605]	[1, 1]	2	0
+Aeros_Accent	[20160602, 20160605]	[1, 1]	2	0
+Accentwoordindexering	[20160602]	[2]	2	-2
+Accenture_Inc.	[20160601, 20160604]	[1, 1]	2	0
+AAVE_accents	[20160605]	[2]	2	2
+Accenture_Public_Limited_Company	[20160605]	[2]	2	2
+Acute_accent_(´)	[20160602, 20160605]	[1, 1]	2	0
+Acute_accent/trackback/	[20160605]	[2]	2	2
+Arabian_Accentor	[20160603]	[2]	2	2
+Lancastrian_accent	[20160602, 20160605]	[1, 1]	2	0
+Liverpool_accent	[20160602]	[2]	2	-2
+Liverpudlian_accent	[20160602, 20160605]	[1, 1]	2	0
+Long_island_accent	[20160601, 20160604]	[1, 1]	2	0
+Italian_accent	[20160603]	[2]	2	2
+Regional_accents	[20160605]	[2]	2	2
+South_African_accent	[20160603]	[2]	2	2
+Indian_accent	[20160603]	[2]	2	2
+Maccentral_online	[20160603]	[2]	2	2
+Massachusetts_accent	[20160603]	[2]	2	2
+Accentual	[20160601, 20160604]	[1, 1]	2	0
+Ancient_greek_accent	[20160603]	[2]	2	2
+Accentia_Technologies_Ltd_GDR	[20160601]	[2]	2	-2
+Cape_breton_accent	[20160601, 20160604]	[1, 1]	2	0
+Brummie_accent	[20160602, 20160605]	[1, 1]	2	0
+Boston_Accent	[20160601, 20160604]	[1, 1]	2	0
+Accenture_National_Security_Services	[20160601, 20160604]	[1, 1]	2	0
+Accentuate	[20160604]	[2]	2	2
+Accented_Passing_Tone	[20160603]	[2]	2	2
+Baltimore accent	[20160601]	[2]	2	-2
+Accentus_Ecclesiasticus	[20160601, 20160604]	[1, 1]	2	0
+Accented	[20160604]	[2]	2	2
+Appalachian_accent	[20160603]	[2]	2	2
+Acidalia_accentuata	[20160604]	[2]	2	2
+2007_WGC_Accenture_Match_Play_Championship	[20160603]	[2]	2	2
+Accentless_American_English	[20160602, 20160605]	[1, 1]	2	0
+Accentuate_the_positive	[20160601, 20160604]	[1, 1]	2	0
+Tone_accent	[20160601]	[2]	2	-2
+Urban_accents	[20160601]	[2]	2	-2
+USS_Accentor_(AMCU-15)	[20160603]	[2]	2	2
+The_southern_accent_(newspaper)	[20160603]	[1]	1	1
+Veranda's_Willems-Accent	[20160605]	[1]	1	1
+[[[[[[[[[[[accented]]]]]]]]]]]	[20160604]	[1]	1	1
+The_Boston_Brahmin_accent	[20160602]	[1]	1	-1
+Witherspoon_is_learning_british_accent	[20160603]	[1]	1	1
+Woordaccent	[20160601]	[1]	1	-1
+Wr_anthony_dable_gives_giants_a_french_accent	[20160603]	[1]	1	1
+Yemen_accentor	[20160603]	[1]	1	1
+Unaccented	[20160604]	[1]	1	1
+Urban_Loft_Furniture_site:www.homeaccentstoday.com	[20160604]	[1]	1	1
+US_accents	[20160605]	[1]	1	1
+Classic+Accents+Aged+(Matte)+Antique+Brass+1+Gang+Outlet+(Duplex)+Wall+Plate	[20160604]	[1]	1	1
+Classic+Accents+Aged+(Matte)+Antique+Brass+2+Gang+Toggle+Switch+Wall+Plate	[20160604]	[1]	1	1
+Classic+Accents+Brushed+Copper+Brass+Single+Gang+Wall+Plate+-+Toggle	[20160603]	[1]	1	1
+Classic+Accents+Hammered+Antique+Copper+Single+Gang+Wall+Plate+-+Cable	[20160604]	[1]	1	1
+Classic+Accents+Polished+Brass+Single+Gang+Push+Button+Switchplate	[20160603]	[1]	1	1
+Classic_Accents	[20160605]	[1]	1	1
+Coaster_900204_vinyl_accent	[20160604]	[1]	1	1
+Complete_Encyclopaedia_of_Music/A/Accents	[20160602]	[1]	1	-1
+Dalian_accenture	[20160603]	[1]	1	1
+De-accentuation_network	[20160602]	[1]	1	-1
+Desk_Lamps:_1-Light_Art_Deco_Woman_Accent_Lamp_STA11264	[20160604]	[1]	1	1
+Discoloxia_accentuata	[20160601]	[1]	1	-1
+Distinguishing_accents_in_English	[20160602]	[1]	1	-1
+Draft:Review_The_Final_Days_Of_The_British-accented_˜wallander_™	[20160601]	[1]	1	-1
+Draft:Wr_Anthony_Dable_Gives_Giants_A_French_Accent	[20160603]	[1]	1	1
+Dublin_4_(D4)_accent	[20160601]	[1]	1	-1
+Ecclesiastical_accent	[20160603]	[1]	1	1
+English accent	[20160602]	[1]	1	-1
+English_Accent	[20160602]	[1]	1	-1
+Finnish_accent	[20160603]	[1]	1	1
+Fix_your_accent_(ep)	[20160603]	[1]	1	1
+Grave\_accent	[20160602]	[1]	1	-1
+Grave_accent/en/`	[20160604]	[1]	1	1
+Grave_accent\	[20160602]	[1]	1	-1
+Grave_accent_(_`_)	[20160605]	[1]	1	1
+Grave_accent_(`)	[20160604]	[1]	1	1
+Guilty_Gear_XX:_Accent-Core	[20160601]	[1]	1	-1
+How The Garcia Girls Lost Their Accents	[20160601]	[1]	1	-1
+How+To+Do+Irish+Accent	[20160602]	[1]	1	-1
+How_the_GarcÃ­a_Girls_Lost_Their_Accents	[20160603]	[1]	1	1
+Hyundai_Accent_1995/96	[20160601]	[1]	1	-1
+English_names_with_accents	[20160602]	[1]	1	-1
+Nature_Accents	[20160602]	[1]	1	-1
+New_Jersey_accent	[20160603]	[1]	1	1
+North_Jersey_accent	[20160603]	[1]	1	1
+Northern_accent_(disambiguation)	[20160605]	[1]	1	1
+Norwegian_accent	[20160604]	[1]	1	1
+O_accent	[20160605]	[1]	1	1
+Obtuse_accent	[20160603]	[1]	1	1
+Overaccentuated	[20160604]	[1]	1	1
+Oxeia_(accent)	[20160603]	[1]	1	1
+Oxford_accent	[20160605]	[1]	1	1
+Pakistani_accent	[20160603]	[1]	1	1
+Philips_Accent_-_Delight_LED_Candle_Lampu_Meja_-_Cokelat	[20160604]	[1]	1	1
+Philips_Accent_-_Retreat_LED_Candle_Lampu_Meja_-_Putih	[20160605]	[1]	1	1
+Portuguese_accent	[20160604]	[1]	1	1
+Progress_Lighting_P4022-77_Forged_Bronze_Eden_Eden_Three-Light_Single-Tier_Mini_Chandelier_with_Leaf_Accents_and_Amber_Linen_Glass_Shades_P4022	[20160605]	[1]	1	1
+Providence,_Rhode_Island_accent	[20160603]	[1]	1	1
+Put_the_accent_on	[20160605]	[1]	1	1
+Queens_accent	[20160601]	[1]	1	-1
+Radde's_accentor	[20160602]	[1]	1	-1
+Regional_accents_of_english	[20160601]	[1]	1	-1
+Regles_d'accentuació_del_català	[20160604]	[1]	1	1
+Review:_The_Final_Days_Of_The_British-Accented_‘Wallander’	[20160601]	[1]	1	-1
+S_Accents	[20160602]	[1]	1	-1
+Shabby_Vintage_Aqua_Mantel_Clock_Weathered_Home_Decor_Accent_19_Inches	[20160605]	[1]	1	1
+Sharpie_accent_highlighter	[20160605]	[1]	1	1
+Sichuan_accent	[20160604]	[1]	1	1
+Softaccents	[20160602]	[1]	1	-1
+Sphinx_accentifera	[20160602]	[1]	1	-1
+Spoke_with_an_Oxbridge_accent_2E	[20160604]	[1]	1	1
+Stenosal_accentuated	[20160605]	[1]	1	1
+Storage_End_Table_Accent_Wooden_Home_Occasional_Wood	[20160604]	[1]	1	1
+List_of_film_accents_considered_the_wors	[20160603]	[1]	1	1
+Indian_stand_up_accent_comedy	[20160601]	[1]	1	-1
+Irish_ghost,_english_accent	[20160603]	[1]	1	1
+Isfahani_accent	[20160601]	[1]	1	-1
+Jainismwiki/Proto-Indo-European_accent	[20160601]	[1]	1	-1
+Japanese accentor	[20160605]	[1]	1	1
+Jekavian_accent	[20160603]	[1]	1	1
+Jonti-Craft_Rainbow_Accents_Toddler_Kitchen_-_Set_of_4	[20160605]	[1]	1	1
+Journee_Collection_Round_Toe_Stud_Accent_Ballet_Flats	[20160602]	[1]	1	-1
+Kozlov's_Accentor	[20160605]	[1]	1	1
+Kristallvertikalaccent	[20160604]	[1]	1	1
+List_of_singer_with_american_accent	[20160602]	[1]	1	-1
+Liverpool_Accent	[20160604]	[1]	1	1
+Maccenter	[20160605]	[1]	1	1
+Miabella_Diamond-Accent_14kt_Pink_Gold_Flower_Pendant	[20160603]	[1]	1	1
+Misaccent	[20160602]	[1]	1	-1
+Nasal_accent	[20160603]	[1]	1	1
+Nepenthes_'Accentual_Koto'	[20160603]	[1]	1	1
+Nonrhotic_accent	[20160603]	[1]	1	1
+Norfolk_accent	[20160601]	[1]	1	-1
+Osaka_accent	[20160604]	[1]	1	1
+Ottawa_Valley_accent	[20160603]	[1]	1	1
+PIE_accent	[20160603]	[1]	1	1
+Personal_pronoun_with_strong_accent	[20160602]	[1]	1	-1
+Phenomenal_accent	[20160603]	[1]	1	1
+Philips_Accent_-_Wish_LED_Candle_Lampu_Meja_-_Putih	[20160604]	[1]	1	1
+Pinnacle_Distressed_Solid_Wood_Lodge_Frame_with_Inner_Accent	[20160604]	[1]	1	1
+Pitch-accent	[20160603]	[1]	1	1
+Pitch-accent_language	[20160605]	[1]	1	1
+Pitch_accent_(autosegmental-metrical_theory)	[20160604]	[1]	1	1
+Presystolic_accentuation	[20160601]	[1]	1	-1
+Promise_accents	[20160602]	[1]	1	-1
+Proto-indo-european_accent	[20160601]	[1]	1	-1
+Proto-slavic_accent	[20160602]	[1]	1	-1
+RACCENTU	[20160604]	[1]	1	1
+RP_accent	[20160602]	[1]	1	-1
+Recessive_accent	[20160602]	[1]	1	-1
+Review_the_final_days_of_the_british-accented_˜wallander_™	[20160601]	[1]	1	-1
+Rufous-streaked_Accentor	[20160601]	[1]	1	-1
+Rumbling_accentuated	[20160602]	[1]	1	-1
+Scottish_Accent	[20160602]	[1]	1	-1
+Scottish_accents	[20160604]	[1]	1	1
+Secondary_accent	[20160601]	[1]	1	-1
+Siberian_Accentor	[20160603]	[1]	1	1
+Singapore+Accent+Youtube	[20160602]	[1]	1	-1
+Socialism_with_a_northern_accent	[20160603]	[1]	1	1
+Southern_U.S._accent	[20160603]	[1]	1	1
+Speaking_French_with_an_English_accent	[20160603]	[1]	1	1
+Spoke_with_a_unique_accent_2E	[20160603]	[1]	1	1
+Straight_accent	[20160604]	[1]	1	1
+Stress-accent	[20160605]	[1]	1	1
+Accentrerai	[20160603]	[1]	1	1
+0060-grave-accent	[20160601]	[1]	1	-1
+2010_wgc-accenture_match_play_championship	[20160603]	[1]	1	1
+2011_Hyundai_Accent_Sedan	[20160602]	[1]	1	-1
+2012_wgc-accenture_match_play_championship	[20160603]	[1]	1	1
+2014 WGC-Accenture Match Play Championship	[20160602]	[1]	1	-1
+2014_wgc-accenture_match_play_championship	[20160603]	[1]	1	1
+21_Accents	[20160601]	[1]	1	-1
+95+accent+body+hyundai+kit	[20160601]	[1]	1	-1
+ACCENTUATE	[20160602]	[1]	1	-1
+A_accent	[20160601]	[1]	1	-1
+Accent Records	[20160602]	[1]	1	-1
+Accent reduction	[20160602]	[1]	1	-1
+Accent+Music+Singapore+Pdf	[20160604]	[1]	1	1
+Accent_%28sociolinguistics%29	[20160605]	[1]	1	1
+Accent_(programming_language%29	[20160604]	[1]	1	1
+Accent_Challenge_@Ritchie_Salveta	[20160601]	[1]	1	-1
+Accent_Signage_Systems	[20160605]	[1]	1	1
+Accent_bank	[20160603]	[1]	1	1
+Accent_consulting	[20160603]	[1]	1	1
+Accent_of_grief	[20160604]	[1]	1	1
+Accent_on_Crime	[20160601]	[1]	1	-1
+Accent_on_africa	[20160603]	[1]	1	1
+Accented_2Bcharacters	[20160601]	[1]	1	-1
+Accenterai	[20160603]	[1]	1	1
+Accenterne	[20160602]	[1]	1	-1
+Accenteur	[20160603]	[1]	1	1
+Accenthealth	[20160603]	[1]	1	1
+Accentia	[20160601]	[1]	1	-1
+Accentibus	[20160601]	[1]	1	-1
+Accentire	[20160605]	[1]	1	1
+Accentmodification	[20160603]	[1]	1	1
+Accentra	[20160602]	[1]	1	-1
+Accentrammo	[20160603]	[1]	1	1
+Accentrano	[20160603]	[1]	1	1
+Accentrarono	[20160603]	[1]	1	1
+Accentrassero	[20160604]	[1]	1	1
+Accentrassi	[20160603]	[1]	1	1
+Accentraste	[20160603]	[1]	1	1
+Accentrava	[20160603]	[1]	1	1
+Accentrò	[20160603]	[1]	1	1
+Accents_S	[20160602]	[1]	1	-1
+Accents_inlay_square_coffee	[20160602]	[1]	1	-1
+Accentual verse	[20160605]	[1]	1	1
+Accentualism	[20160603]	[1]	1	1
+Accentuassions	[20160605]	[1]	1	1
+Accentuated	[20160604]	[1]	1	1
+Accentuating	[20160604]	[1]	1	1
+Accentuation_of_attention	[20160605]	[1]	1	1
+Accentuer	[20160601]	[1]	1	-1
+Accenture+	[20160605]	[1]	1	1
+Accenture@heineken	[20160601]	[1]	1	-1
+Accenture_Cloud	[20160604]	[1]	1	1
+Accenture_Collaboration	[20160604]	[1]	1	1
+Accenture_Plc	[20160603]	[1]	1	1
+Accenture_national_security_services	[20160603]	[1]	1	1
+Acute_accents	[20160605]	[1]	1	1
+Alpine_Accentor	[20160601]	[1]	1	-1
+Android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Acute_accent	[20160603]	[1]	1	1
+Anti-accent	[20160603]	[1]	1	1
+Anyphaena_accentuata	[20160601]	[1]	1	-1
+Apion_accentor	[20160604]	[1]	1	1
+Arooni_accent	[20160604]	[1]	1	1
+Artzyaccents	[20160602]	[1]	1	-1
+Australian_Accent	[20160603]	[1]	1	1
+Autoaccents	[20160604]	[1]	1	1
+Bellows+accentuated	[20160602]	[1]	1	-1
+Black-throated_Accentor	[20160605]	[1]	1	1
+Boston_brahmin_accent	[20160601]	[1]	1	-1
+Brown_Accent_Lamp:_15_in._Soccer_Dark_Brown_Lamp_31604SC	[20160604]	[1]	1	1
+California_accent	[20160602]	[1]	1	-1
+Cape Breton accent	[20160604]	[1]	1	1
+Cape_Breton_Island_accent	[20160604]	[1]	1	1
+Caravelle_by_Bulova_Women's_45L79_Crystal_Accented	[20160601]	[1]	1	-1
+Cardiff_accent	[20160603]	[1]	1	1
+Classic+Accents+Aged+(Matte)+Antique+Brass+1+Gang+Toggle+Switch+Wall+Plate	[20160604]	[1]	1	1
+Classic+Accents+Antique+Brass+3+Gang+Push+Button+Light+Switch+Wall+Plate	[20160604]	[1]	1	1
+Classic+Accents+Four+Gang+Oil+Rubbed+Bronze+Push+Button+Switch+Plate	[20160602]	[1]	1	-1
+Classic+Accents+Hammered+Antique+Copper+Single+Gang+Wall+Plate+-+Blank	[20160604]	[1]	1	1
+00B4-acute-accent	[20160601]	[1]	1	-1
+2002_Hyundai_Accent_Sedan	[20160601]	[1]	1	-1
+2003_wgc-accenture_match_play_championship	[20160603]	[1]	1	1
+2007 WGC-Accenture Match Play Championship	[20160601]	[1]	1	-1
+2007_Hyundai_Accent_Hatchback	[20160604]	[1]	1	1
+2007_wgc-accenture_match_play_championship	[20160603]	[1]	1	1
+2010_WGC_Accenture_Match_Play_Championship	[20160602]	[1]	1	-1
+2011 WGC-Accenture Match Play Championship	[20160605]	[1]	1	1
+2011_Veranda's_Willems-Accent	[20160605]	[1]	1	1
+2011_wgc-accenture_match_play_championship	[20160603]	[1]	1	1
+2013_wgc-accenture_match_play_championship	[20160603]	[1]	1	1
+2014_WGC_Accenture_Match_Play_Championship	[20160601]	[1]	1	-1
+A_northern_2FDublin_2FIndian_accent	[20160604]	[1]	1	1
+Accent on Youth	[20160603]	[1]	1	1
+Accent+AB	[20160602]	[1]	1	-1
+Accent+chairs+craigslist	[20160601]	[1]	1	-1
+Accent_(language)	[20160604]	[1]	1	1
+Accent_Bank	[20160604]	[1]	1	1
+Accent_Comics	[20160602]	[1]	1	-1
+Accent_Inn	[20160602]	[1]	1	-1
+Accent_Table_Lamp:_13.5_in._Henderson_Bankers_Lamp_TA11010	[20160604]	[1]	1	1
+Accent_acute	[20160605]	[1]	1	1
+Accent_circonflexe	[20160605]	[1]	1	1
+Accent_fallacy	[20160604]	[1]	1	1
+Accent_leveling	[20160603]	[1]	1	1
+Accent_levelling	[20160605]	[1]	1	1
+Accent_on_youth	[20160605]	[1]	1	1
+Accent_rar_password_recovery_2_11_keygen	[20160604]	[1]	1	1
+Accent_records	[20160603]	[1]	1	1
+Accent_speakers_bureau	[20160603]	[1]	1	1
+Accent_traînant	[20160602]	[1]	1	-1
+Accentando	[20160601]	[1]	1	-1
+Accentano	[20160603]	[1]	1	1
+Accentativi	[20160605]	[1]	1	1
+Accentazione	[20160605]	[1]	1	1
+Accented_note	[20160605]	[1]	1	1
+Accento	[20160603]	[1]	1	1
+Accentor_class_coastal_minesweeper	[20160604]	[1]	1	1
+Accentor_class_minesweeper	[20160603]	[1]	1	1
+Accentrasti	[20160603]	[1]	1	1
+Accentrata	[20160601]	[1]	1	-1
+Accentrerebbero	[20160605]	[1]	1	1
+Accentrereste	[20160604]	[1]	1	1
+Accentrerà	[20160604]	[1]	1	1
+Accents+In+Australia	[20160604]	[1]	1	1
+Accents+Sterling+Silver	[20160604]	[1]	1	1
+Accentual_unit	[20160601]	[1]	1	-1
+Accentuality	[20160601]	[1]	1	-1
+Accentuando	[20160602]	[1]	1	-1
+Accenture+L.L.C	[20160605]	[1]	1	1
+Accenture+Services+Oy	[20160602]	[1]	1	-1
+Accenture:_Greater_Than	[20160601]	[1]	1	-1
+Accenture_Denmark	[20160604]	[1]	1	1
+Accenture_World_Match_Play	[20160602]	[1]	1	-1
+Accenture_india_pvt_ltd	[20160602]	[1]	1	-1
+Accenture_learning	[20160602]	[1]	1	-1
+Accenture_tower	[20160603]	[1]	1	1
+Accentus_(company)	[20160605]	[1]	1	1
+Accentus_Austria_discography	[20160603]	[1]	1	1
+Accentus_austria	[20160603]	[1]	1	1
+Accentus_ecclesiastici	[20160603]	[1]	1	1
+Acute_Accent	[20160601]	[1]	1	-1
+Acute_accent&sa=U&ved=0ahUKEwjuupiQ-9TLAhVB-2MKHTlBChkQFgg6MAk&usg=AFQjCNFMOQOkrt0vjABRFULEFIL2mv4GjQ	[20160602]	[1]	1	-1
+Acuteaccent	[20160605]	[1]	1	1
+Affected_a_british_accent_2E	[20160605]	[1]	1	1
+Altai_Accentor	[20160605]	[1]	1	1
+American_Accent_Training	[20160601]	[1]	1	-1
+Ancient_Greek_accent).	[20160601]	[1]	1	-1
+Android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gøtudanskt_accent	[20160605]	[1]	1	1
+Architectural_desktop_accent_zip_password_recovery_keygen	[20160604]	[1]	1	1
+Baltimore_accent_()	[20160605]	[1]	1	1
+Birmingham_accent	[20160604]	[1]	1	1
+Black_country_accent	[20160603]	[1]	1	1
+Borujerdi_accent	[20160601]	[1]	1	-1
+Bridges'_Prosody_of_Accentual_Verse	[20160603]	[1]	1	1
+Bronx_accent	[20160605]	[1]	1	1
+Brooklyn-accented	[20160602]	[1]	1	-1
+Brummy_accent	[20160603]	[1]	1	1
+Burberry_London_Asymmetrical_Zip_Leather_Accent_Trench_Coat	[20160604]	[1]	1	1
+Cadaccent	[20160602]	[1]	1	-1
+Canadian_Accent	[20160603]	[1]	1	1
+Canadian_Accents	[20160603]	[1]	1	1
+Center+Accent+Entrepreneur+AB	[20160603]	[1]	1	1
+Channel_Island_Accent	[20160601]	[1]	1	-1
+Natures_Accents	[20160602]	[1]	1	-1
+New_york_accent	[20160603]	[1]	1	1
+Nonlocal_accent	[20160602]	[1]	1	-1
+Notable_speakers_with_a_New_York_accent	[20160603]	[1]	1	1
+Osakan_accent	[20160604]	[1]	1	1
+PiquÃƒÆ’Ã‚Â©_accentuÃƒÆ’Ã‚Â©	[20160602]	[1]	1	-1
+Poetry/accent	[20160602]	[1]	1	-1
+Primary_accent	[20160601]	[1]	1	-1
+Pré-accentuation	[20160604]	[1]	1	1
+Puerto Rican accents	[20160601]	[1]	1	-1
+Regional accents of English	[20160605]	[1]	1	1
+Regional_Accents_Of_English_Speakers	[20160602]	[1]	1	-1
+Regional_accents_of_English_0ba6	[20160601]	[1]	1	-1
+Respectful_2Baccent	[20160604]	[1]	1	1
+Robin_Accentor	[20160601]	[1]	1	-1
+Rufous-streaked_accentor	[20160603]	[1]	1	1
+SKECHERS_Accented_-_Stud_Factor	[20160603]	[1]	1	1
+Saccente	[20160605]	[1]	1	1
+Santa_Rosa_Three_Drawer_Accent_End_Table_Night_Stand	[20160604]	[1]	1	1
+Serbo-Croatian_accent	[20160601]	[1]	1	-1
+Skagen_Men's_915XLSSS_Steel_Matte_Textured_Mesh_Accents_Watch	[20160604]	[1]	1	1
+South_Jersey_accent	[20160601]	[1]	1	-1
+Southern_Accent_(song)	[20160604]	[1]	1	1
+Southern_accents	[20160603]	[1]	1	1
+Southern_accents_(tom_petty_song)	[20160603]	[1]	1	1
+Subdivisional_Accent_Exercise	[20160602]	[1]	1	-1
+Swedish_accent	[20160603]	[1]	1	1
+Cockney accent	[20160605]	[1]	1	1
+Cockney_2Baccent	[20160603]	[1]	1	1
+Collocation_accent	[20160602]	[1]	1	-1
+Combining_accent	[20160604]	[1]	1	1
+Complete_Encyclopaedia_of_Music/A/Accent	[20160604]	[1]	1	1
+Cut-glass_accent	[20160601]	[1]	1	-1
+Dark_brown_leather_look_accent	[20160605]	[1]	1	1
+Delaware_Valley_accent	[20160603]	[1]	1	1
+Design_accents	[20160603]	[1]	1	1
+Disaccenterà	[20160601]	[1]	1	-1
+Disaccenterò	[20160605]	[1]	1	1
+Discovering_The_Middlesbrough_Accent_Youtube	[20160603]	[1]	1	1
+Dutch_accent_in_English	[20160605]	[1]	1	1
+Ecoaccents	[20160601]	[1]	1	-1
+English_regional_accent	[20160603]	[1]	1	1
+English_regional_accents	[20160601]	[1]	1	-1
+Even_accent	[20160604]	[1]	1	1
+Fix_your_accent	[20160603]	[1]	1	1
+Flam_accent	[20160601]	[1]	1	-1
+Foreign+accent+syndrome	[20160601]	[1]	1	-1
+Foreign_Accent_Syndrome	[20160604]	[1]	1	1
+Foreign_accent_syndrome&sa=U&ved=0ahUKEwizlZL9j9XLAhVX12MKHYLjA90QFghHMAs&usg=AFQjCNFdcfhp2uFmF3soHCb4C67LTt7wGA	[20160602]	[1]	1	-1
+Fried_chicken_with_a_german_accent	[20160603]	[1]	1	1
+Gay_accent	[20160603]	[1]	1	1
+Gio._Felice_Sances,_Accenti_queruli	[20160601]	[1]	1	-1
+Glasgow_accent	[20160604]	[1]	1	1
+Gotudanskt_accent	[20160601]	[1]	1	-1
+Grave_accent/trackback/	[20160602]	[1]	1	-1
+Grey_oversized_accent_ottoman	[20160604]	[1]	1	1
+Handcrafted_accent_wood_ottoman	[20160604]	[1]	1	1
+He_mimicked_her_southern_accent_2E	[20160604]	[1]	1	1
+Health_Accent	[20160601]	[1]	1	-1
+Hedge_Accentor	[20160604]	[1]	1	1
+Her_2Baccent_2Bwas_2Bunmistakable_2E	[20160604]	[1]	1	1
+Her_accent_was_unmistakable_2E	[20160604]	[1]	1	1
+HiEnd_Accents_Wilderness_Ridge	[20160604]	[1]	1	1
+Himalayan Accentor	[20160604]	[1]	1	1
+Home_accents_today	[20160603]	[1]	1	1
+Hyundai_Accent_GT	[20160604]	[1]	1	1
+I0EMW_La_Perla_Maya_Floral_Accented_Pajamas_White	[20160602]	[1]	1	-1
+WGC-Accenture	[20160604]	[1]	1	1
+The_Southern_Accent_(newspaper)	[20160603]	[1]	1	1
+The_accents	[20160603]	[1]	1	1
+Tonic_accent	[20160601]	[1]	1	-1
+UNACCENT	[20160605]	[1]	1	1
+USS_Accentor_(LCIL-652)	[20160601]	[1]	1	-1
+Urban Accents	[20160601]	[1]	1	-1
+Utivarachna_accentuata	[20160602]	[1]	1	-1
+Vince_Camuto_Pyramid_Bezel_Crystal_Accent_Bracelet_Watch,_43mm	[20160605]	[1]	1	1
+WGC-Accenture_World_Matchplay_Championship	[20160605]	[1]	1	1
+Wgc-accenture_match_play	[20160601]	[1]	1	-1
+Yamazaki_Cache_Gold_Accent	[20160602]	[1]	1	-1
+Yorkshire_Dialect_And_Accent	[20160604]	[1]	1	1
+Yorkshire_dialect_and_accent)	[20160602]	[1]	1	-1
+[[[[[[accent]]]]]]	[20160604]	[1]	1	1
+[[[[[accent]]]]]	[20160601]	[1]	1	-1
+[医] arterial accentuated	[20160605]	[1]	1	1
+Coaster_900176_linen_textured_accent	[20160605]	[1]	1	1
+Coaster_900242_bentwood_accent	[20160604]	[1]	1	1
+Complete_Encyclopaedia_of_Music/A/Accenter	[20160603]	[1]	1	1
+Czech_accent	[20160604]	[1]	1	1
+Deaccentuator	[20160605]	[1]	1	1
+Diamond-Accent_Flower_Ring_in_Sterling_Silver_Size_7	[20160601]	[1]	1	-1
+Dino_Saccenti	[20160601]	[1]	1	-1
+Disaccentata	[20160603]	[1]	1	1
+Double_aortic_accentuated	[20160602]	[1]	1	-1
+Downeast_accent	[20160603]	[1]	1	1
+Draft_talk:Accent_Records_(US)	[20160601]	[1]	1	-1
+Dubbel_accent_aigu	[20160602]	[1]	1	-1
+East_Midlands_accent	[20160601]	[1]	1	-1
+Flower_accents	[20160604]	[1]	1	1
+Foreign_accent_syndromes	[20160604]	[1]	1	1
+Fried_Chicken_With_A_German_Accent	[20160603]	[1]	1	1
+G_with_breve_accent	[20160603]	[1]	1	1
+Glypta_accentuata	[20160602]	[1]	1	-1
+Grave accent	[20160602]	[1]	1	-1
+Grave_(accent)	[20160603]	[1]	1	1
+Grave_accents	[20160604]	[1]	1	1
+Green_Accent_Lamp:_37.5_in._Blue_Green_Lamp_29658-1	[20160602]	[1]	1	-1
+Gøtudanskt accent	[20160605]	[1]	1	1
+Hebrew_accent	[20160601]	[1]	1	-1
+Hedge_accentor	[20160601]	[1]	1	-1
+Himalayan_Accentor	[20160604]	[1]	1	1
+Homelegance_Warner_Faux_Leather_Accent_Chair,_White	[20160601]	[1]	1	-1
+How the García Girls Lost Their Accents	[20160601]	[1]	1	-1
+How_the_garcía_girls_lost_their_accents	[20160603]	[1]	1	1
+How_to_do_a_Liverpool_accent.	[20160601]	[1]	1	-1
+Huayin_Shadow_Play_with_accent	[20160603]	[1]	1	1
+Humming-top+accentuated	[20160604]	[1]	1	1
+Hyundai_Accent_Evo_3	[20160603]	[1]	1	1
+Hyundai_Accent_GSi	[20160601]	[1]	1	-1
+Hyundai_Accent_Hatchback_CRDi	[20160602]	[1]	1	-1
+Hyundai_Accent_Hybrid	[20160603]	[1]	1	1
+Hyundai_accent_india	[20160604]	[1]	1	1
+WR_Anthony_Dable_Gives_Giants_A_French_Accent	[20160603]	[1]	1	1
+Tehrani accent	[20160603]	[1]	1	1
+The_Local_Accent_Study_of_Hanyin	[20160601]	[1]	1	-1
+Tidewater accent	[20160601]	[1]	1	-1
+Tim_Roth_accent	[20160602]	[1]	1	-1
+Tonal_accent	[20160603]	[1]	1	1
+Trans-Atlantic_accent	[20160603]	[1]	1	1
+Transylvania_accent	[20160603]	[1]	1	1
+USS_Accentor	[20160603]	[1]	1	1
+USS_Accentor_(LSIL-652)	[20160601]	[1]	1	-1
+Unaccentuated	[20160603]	[1]	1	1
+Vim-scripts/EasyAccents	[20160605]	[1]	1	1
+Wall_accents	[20160604]	[1]	1	1
+West_country_accent	[20160603]	[1]	1	1
+White_with_Gold_accent_color_(color)	[20160601]	[1]	1	-1
+Words_that_are_nouns_or_adjectives_when_the_accent_is_on_the_first_syllable_and_verbs_when_on_a_later_syllable	[20160604]	[1]	1	1
+Yorkshire accent	[20160604]	[1]	1	1
+YorkshireDialectAndAccent	[20160604]	[1]	1	1
+[[[[[[accentuate]]]]]]	[20160602]	[1]	1	-1
+[医] line accentuated contour	[20160604]	[1]	1	1
+[医] stenosal accentuated	[20160602]	[1]	1	-1
+Ikavian_Accent	[20160604]	[1]	1	1
+Japanese/Pitch_accent	[20160601]	[1]	1	-1
+Japanese_pitch_accent_demonstration.ogg	[20160604]	[1]	1	1
+Lancashire_Dialect_and_Accent	[20160602]	[1]	1	-1
+Learn_to_love_your_accent_2E	[20160604]	[1]	1	1
+Let's_Play:_Guilty_Gear_XX_Accent_Core_Plus_(PSN_Version)_Pt.26:_Justice_-_Story	[20160603]	[1]	1	1
+List_of_film_accents_considered_the_worst	[20160602]	[1]	1	-1
+London_accent	[20160605]	[1]	1	1
+MUK_LUKS_Boho_Stocking_Cap_with_Button_Accent_Arm_Warmers	[20160604]	[1]	1	1
+Marine_accents	[20160602]	[1]	1	-1
+Maroon-backed_Accentor	[20160601]	[1]	1	-1
+Master_the_American_Accent	[20160601]	[1]	1	-1
+Melodic_accent	[20160601]	[1]	1	-1
+Metrical_accent	[20160604]	[1]	1	1
+Midwestern_Accent	[20160604]	[1]	1	1
+Morphy_Richards_Accents_Kettle	[20160603]	[1]	1	1
+Music/wiki/Accent_(music)	[20160601]	[1]	1	-1
+My_accent_video_northern_ireland_the_regional_dialect_challe	[20160604]	[1]	1	1
+00224_700_003_galvani_accent	[20160604]	[1]	1	1
+005E-circumflex-accent	[20160601]	[1]	1	-1
+2001_WGC_Accenture_Match_Play_Championship	[20160602]	[1]	1	-1
+2006_wgc-accenture_match_play_championship	[20160604]	[1]	1	1
+2008_wgc-accenture_match_play_championship	[20160603]	[1]	1	1
+2011_WGC_Accenture_Match_Play_Championship	[20160601]	[1]	1	-1
+8+Piece+Blue+Brown+Beige+Regatta+King+Comforter+Set+with+accent+pillows	[20160604]	[1]	1	1
+ACCENT	[20160603]	[1]	1	1
+ACCENTURE	[20160603]	[1]	1	1
+A_lower-class_accent	[20160602]	[1]	1	-1
+A_northern_accent_2Fclimate	[20160603]	[1]	1	1
+AcCENT_Upon_the_Wrong_SylLABle	[20160603]	[1]	1	1
+Accent (band)	[20160603]	[1]	1	1
+Accent/a	[20160605]	[1]	1	1
+Accent_(linguistics%29	[20160605]	[1]	1	1
+Accent_(manga)	[20160602]	[1]	1	-1
+Accent_(speech)	[20160604]	[1]	1	1
+Accent_1	[20160605]	[1]	1	1
+Accent_2Band_2Bintonation	[20160603]	[1]	1	1
+Accent_Acute	[20160603]	[1]	1	1
+Accent_Core	[20160601]	[1]	1	-1
+Accent_Grave	[20160604]	[1]	1	1
+Accent_Health	[20160601]	[1]	1	-1
+Accent_circumflex	[20160605]	[1]	1	1
+Accent_color	[20160601]	[1]	1	-1
+Accent_d'intensitÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©	[20160603]	[1]	1	1
+Accent_landscape	[20160604]	[1]	1	1
+Accent_programming_language	[20160603]	[1]	1	1
+Accent_ring	[20160603]	[1]	1	1
+Accentappliance	[20160605]	[1]	1	1
+Accentated_contrast	[20160605]	[1]	1	1
+Accented_beat	[20160604]	[1]	1	1
+Accentje	[20160605]	[1]	1	1
+Accentor-class minesweeper	[20160602]	[1]	1	-1
+Accentor_modularis	[20160603]	[1]	1	1
+Accentproperties	[20160601]	[1]	1	-1
+Accentrai	[20160602]	[1]	1	-1
+Accentrarsi	[20160603]	[1]	1	1
+Accentrassimo	[20160604]	[1]	1	1
+Accentreranno	[20160603]	[1]	1	1
+Accentrerebbe	[20160604]	[1]	1	1
+Accentreremo	[20160603]	[1]	1	1
+Accentreresti	[20160604]	[1]	1	1
+Accentrerete	[20160603]	[1]	1	1
+Accentri	[20160602]	[1]	1	-1
+Accentro	[20160602]	[1]	1	-1
+Accents (psychology)	[20160601]	[1]	1	-1
+Accents_Nature	[20160602]	[1]	1	-1
+Accents_Natures	[20160602]	[1]	1	-1
+Accents_aigus	[20160604]	[1]	1	1
+Accentsurfaces	[20160601]	[1]	1	-1
+Accentuable	[20160604]	[1]	1	1
+Accentual-Syllabic_Verse	[20160601]	[1]	1	-1
+Accentually	[20160605]	[1]	1	1
+Accentuate_The_Positive	[20160604]	[1]	1	1
+Accentuate_advertisements	[20160602]	[1]	1	-1
+Accentuate_the_Negative	[20160603]	[1]	1	1
+Accentuate_the_Positive_(album)/trackback/	[20160602]	[1]	1	-1
+Accentuate_the_positive_(album)	[20160603]	[1]	1	1
+Accentuatie	[20160601]	[1]	1	-1
+Accentuatio_poetica	[20160605]	[1]	1	1
+Accentuazioni	[20160605]	[1]	1	1
+Accentuering	[20160604]	[1]	1	1
+Accentuez	[20160603]	[1]	1	1
+Accenture_Ltd	[20160602]	[1]	1	-1
+Accenture_logo_meaning	[20160601]	[1]	1	-1
+Accenture_top_50_business_intellectuals	[20160605]	[1]	1	1
+Accentus_(disambiguation)	[20160601]	[1]	1	-1
+AccentuÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©r	[20160602]	[1]	1	-1
+Accentwoorden-catalogus	[20160603]	[1]	1	1
+Acme_59048_Balin_Accent_Chair,_White_Polyurethane_Finish	[20160604]	[1]	1	1
+Acme_59138_nels_accent	[20160603]	[1]	1	1
+Agrapha_accentifera	[20160601]	[1]	1	-1
+Alderney_Accent	[20160605]	[1]	1	1
+American_Accent_for_Business_Success	[20160603]	[1]	1	1
+AncientGreekAccent	[20160601]	[1]	1	-1
+Ancient_Greek_rules_of_accent	[20160604]	[1]	1	1
+Andy+Harries+Accenture	[20160604]	[1]	1	1
+Arabic_accent	[20160603]	[1]	1	1
+Aranea_accentuata	[20160602]	[1]	1	-1
+BLACCENT	[20160603]	[1]	1	1
+Baden-Württemberg_accent	[20160601]	[1]	1	-1
+Bareia_(accent)	[20160603]	[1]	1	1
+Barrovian_accent	[20160603]	[1]	1	1
+Baxton_Studio_Modern_Leather_Accent_Chair,_Black_and_Chrome	[20160605]	[1]	1	1
+Beauce_French_accent	[20160605]	[1]	1	1
+Blaccent	[20160604]	[1]	1	1
+Black_Country_Accent/wiki/Special:Random	[20160604]	[1]	1	1
+Central_Pennsylvania_Accent	[20160603]	[1]	1	1
+Chinese_Dialects_and_Accents	[20160604]	[1]	1	1
+Classic+Accents+Aged+(Matte)+Antique+Brass+3+Gang+Toggle+Switch+Wall+Plate	[20160604]	[1]	1	1
+Idiom_accent	[20160604]	[1]	1	1
+Ijekavian_accent	[20160603]	[1]	1	1
+JK2_-_Bow-Accent_Sequined_Evening_Dress	[20160604]	[1]	1	1
+Jersey_Accent	[20160601]	[1]	1	-1
+Kansai_accent	[20160603]	[1]	1	1
+Koslow's_Accentor	[20160601]	[1]	1	-1
+Kyoto_accent	[20160604]	[1]	1	1
+Maccentral	[20160603]	[1]	1	1
+Mark_2Bthe_2Baccents	[20160604]	[1]	1	1
+Martins_accent	[20160603]	[1]	1	1
+Merseyside_accent	[20160601]	[1]	1	-1
+Michael_Saccente	[20160604]	[1]	1	1
+Mid-atlantic_accent	[20160603]	[1]	1	1
+Midwest_Accent	[20160604]	[1]	1	1
+Midwest_accent	[20160603]	[1]	1	1
+Modifier_letter_circumflex_accent	[20160605]	[1]	1	1
+Morphy_Richards_Accents_Coffee_Maker	[20160603]	[1]	1	1
+Musical_accent	[20160602]	[1]	1	-1
